@@ -19,14 +19,27 @@ The data for this analysis comes from sharkattackfile.net and contains informati
 
 ## 📊 Steps in the Notebook
 
-**1. Data Loading:**  Load the dataset directly from the online source using pandas. Check the shape and inspect the first few rows to understand the structure.
-**2. Initial Data Exploration** Inspect column names, look at missing values, and check for inconsistencies in the data.
+**1. Data Loading:**  
+
+Load the dataset directly from the online source using pandas. Check the shape and inspect the first few rows to understand the structure.
+
+**2. Initial Data Exploration** 
+
+Inspect column names, look at missing values, and check for inconsistencies in the data.
+
 **3. Data Preprocessing**
+
    o	Standardize column names to lowercase and remove unnecessary columns.
    o	Filter the dataset to retain only relevant years (1994 and beyond).
    o	Handle missing data and clean up invalid entries in key columns like 'gender.'
-**4. Data Cleaning** Remove irrelevant columns and adjust data types where necessary.
-**5. Data Visualization** Remove irrelevant columns and adjust data types where necessary.
+   
+**4. Data Cleaning**
+
+Remove irrelevant columns and adjust data types where necessary.
+
+**5. Data Visualization**
+
+Remove irrelevant columns and adjust data types where necessary.
    o	Gender Analysis: Visualize the number of attacks by gender using bar plots and pie charts.
    o	Yearly Analysis: Show the distribution of attacks over the years using a line plot.
 
