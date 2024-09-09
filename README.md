@@ -47,12 +47,17 @@ Remove irrelevant columns and adjust data types where necessary.
 
 •	Gender Analysis: Most shark attacks involved male victims, which is illustrated using both bar and pie charts.
 •	Yearly Trends: A clear trend over time, showing how shark attack incidents have varied from 1994 onwards.
-![image](https://github.com/user-attachments/assets/4768845f-6778-4097-92df-2e6fe8b0a6f5)
-![image](https://github.com/user-attachments/assets/82ca4fdb-1b45-4c11-9e7f-11bf24937a9c)
-![image](https://github.com/user-attachments/assets/d74ce703-0327-4c4e-be51-2a00a0dd44a9)
+![image](https://github.com/user-attachments/assets/2ea79660-e59c-4d2e-be06-cbda3618af9d)
+![image](https://github.com/user-attachments/assets/4422e5d6-e8a6-4c8e-bdc9-9837cdd4bd43)
+![image](https://github.com/user-attachments/assets/32cea855-01b2-48a6-81ac-48585f31712a)
+![image](https://github.com/user-attachments/assets/93c4e14b-8150-4f6a-9730-39a8144c835e)
+
+
+
 
 ## 📜 Conclusion
  This analysis showcases how to handle real-world datasets by addressing common challenges such as missing values, inconsistent data, and outliers. The visualizations provide a deeper understanding of trends in shark attacks.
+ The data shows that shark attacks have increased in the past 30 years, attacks are higher and more deadly in men.
 
 ## 🧑‍💻 Authors
 This project was developed by Esme Rodriguez, Elena Vilkoyt, Irene Sifre
